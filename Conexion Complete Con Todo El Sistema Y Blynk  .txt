@@ -75,3 +75,17 @@ void loop() {
   Blynk.run();
   timer.run();
 }
+
+
+
+
+
+
+
+3V3 -> VCC
+
+GND -> GND
+
+Pin 21 -> SDA
+
+Pin 22 -> SCL
